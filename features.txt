@@ -1,0 +1,31 @@
+[home_ownership]
+ANY
+MORTGAGE
+RENT
+OWN
+
+
+[verification_status]
+Not Verified
+Source Verified
+Verified
+
+
+[application_type]
+Individual
+Joint App
+
+
+[target]
+low_risk
+high_risk
+
+
+[hardship_flag]
+N
+Y
+
+
+[debt_settlement_flag]
+N
+Y
